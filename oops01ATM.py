@@ -57,6 +57,8 @@ Hello how would you like to proceed?
             print("Total Balance:",self.balance)
     def exit(self):
         print("bye")
+        
+# It is basic code of ATM 
             
             
             
